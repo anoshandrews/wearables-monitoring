@@ -1,7 +1,9 @@
-streamlit
-streamlit-autorefresh
-pandas
-numpy==1.23.5        # ✅ Compatible with TF 2.12.0
+numpy==1.23.5
 tensorflow==2.12.0
-scikit-learn
-joblib
+keras==2.12.0
+ml-dtypes==0.1.0
+scikit-learn==1.2.2
+joblib==1.3.2
+pandas==1.5.3
+streamlit==1.26.0
+streamlit-autorefresh==0.0.3
